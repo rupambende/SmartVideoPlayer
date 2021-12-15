@@ -1,5 +1,5 @@
 # SmartVideoPlayer
-DEvelopment
+# Development
 1. Fork the project on GitHub.
 2. Clone it within Android Studio or a Git Bash:
     1. From the Welcome Screen: Check out project from Version Control -> Git
