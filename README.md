@@ -1,4 +1,5 @@
 # SmartVideoPlayer
+SmartVideoPlayer library is a video player have some basic features that need to develop an video player application in android studio
 # Development
 1. Fork the project on GitHub.
 2. Clone it within Android Studio or a Git Bash:
