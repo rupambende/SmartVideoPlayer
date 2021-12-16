@@ -18,3 +18,4 @@ SmartVideoPlayer library is a video player have some basic features that need to
 7. File -> Sync Project with Gradle Files
 ![WhatsApp Image 2021-12-16 at 12 09 19 AM](https://user-images.githubusercontent.com/88902411/146327691-c2a07e9e-6910-4d13-ac78-51581b05b431.jpeg)
 
+![WhatsApp Image 2021-12-15 at 11 38 03 PM](https://user-images.githubusercontent.com/88902411/146330594-f2e49e3c-beef-4bca-b06d-05a9cb936084.jpeg)
